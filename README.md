@@ -1,5 +1,5 @@
 <!-- 👋 Hi there -->
-<h1 align="center">Hi, I'm <a href="https://github.com/mahir817" target="_blank">Mahir Ahmed</a> 👋</h1>
+<h1 align="center">Hi, <a href="https://github.com/mahir817" target="_blank">Mahir</a> here👋</h1>
 <h3 align="center">🚀 Computer Science Engineer | Aspiring Data Scientist | Tech Enthusiast</h3>
 
 ---
@@ -8,7 +8,7 @@
 💡 Passionate about crafting efficient and elegant solutions through code.  
 🎓 Currently pursuing **B.Sc. in Computer Science**.  
 🌍 Based in **Bangladesh**.  
-💼 Actively exploring **Machine Learning**, **Web Development**, and **Data Scince**.  
+💼 Actively exploring **Machine Learning**, **Web Development**, and **Data Science**.  
 ⚡ Fun fact: I love solving real-world problems with tech and automating tedious tasks.  
 
 ---
@@ -64,18 +64,36 @@
 
 ### 🧩 Project Highlights
 
-💾 **Digital Ecosystem** – Role-based job, housing portal for students and recruiters 
-🧠 **Traffic Management System** – Real-time IoT web-based system for police monitoring  
- 
+💾 **Digital Ecosystem** – Role-based job & housing portal for students and recruiters  
+🧠 **Traffic Management System** – Real-time IoT-based web system for police monitoring  
 
 🔗 Explore more in my [Repositories »](https://github.com/mahir817?tab=repositories)
 
 ---
 
 ### 🧭 Stats Overview
+
 <div align="center">
+
+#### 🌀 Contribution Summary (Circular Visuals)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahir817&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/mahir817">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahir817&theme=tokyonight" width="100%"/>
+</a>
+
+<a href="https://github.com/mahir817">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahir817&theme=tokyonight" width="45%"/>
+</a>
+<a href="https://github.com/mahir817">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahir817&theme=tokyonight" width="45%"/>
+</a>
+
+<a href="https://github.com/mahir817">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahir817&theme=tokyonight&utcOffset=6" width="45%"/>
+</a>
+<a href="https://github.com/mahir817">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahir817&theme=tokyonight" width="45%"/>
+</a>
 
 </div>
 
@@ -86,14 +104,12 @@
 <div align="center">
 
 📧 **Email:** [mahir101748@gmail.com](mailto:mahir101748@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/mahir817](https://linkedin.com/in/mahir817)  
-🌐 **Portfolio:** 
-
+💼 **LinkedIn:** [mahir817](https://linkedin.com/in/mahir817)  
+🌐 **Portfolio:** *Coming soon...*  
 
 </div>
 
 ---
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mahir817/mahir817/main/wave.svg" width="100%">
