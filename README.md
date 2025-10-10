@@ -1,5 +1,5 @@
 <!-- 👋 Hi there -->
-<h1 align="center">Hi, I'm <a href="https://github.com/your-username" target="_blank">Mahir Ahmed</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/mahir817" target="_blank">Mahir Ahmed</a> 👋</h1>
 <h3 align="center">🚀 Computer Science Engineer | Aspiring Data Scientist | Tech Enthusiast</h3>
 
 ---
@@ -8,7 +8,7 @@
 💡 Passionate about crafting efficient and elegant solutions through code.  
 🎓 Currently pursuing **B.Sc. in Computer Science**.  
 🌍 Based in **Bangladesh**.  
-💼 Actively exploring **Web Development**, **Databases**, and **AI Applications**.  
+💼 Actively exploring **Machine Learning**, **Web Development**, and **Data Scince**.  
 ⚡ Fun fact: I love solving real-world problems with tech and automating tedious tasks.  
 
 ---
@@ -46,16 +46,16 @@
 
 <div align="center">
 
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<a href="https://github.com/mahir817">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahir817&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/mahir817">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahir817&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<a href="https://github.com/your-username">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" width="100%"/>
+<a href="https://github.com/mahir817">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahir817&theme=tokyo-night&hide_border=true" width="100%"/>
 </a>
 
 </div>
@@ -68,14 +68,14 @@
 🧠 **Traffic Management System** – Real-time IoT web-based system for police monitoring  
  
 
-🔗 Explore more in my [Repositories »](https://github.com/your-username?tab=repositories)
+🔗 Explore more in my [Repositories »](https://github.com/mahir817?tab=repositories)
 
 ---
 
 ### 🧭 Stats Overview
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahir817&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -96,5 +96,5 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/wave.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/mahir817/mahir817/main/wave.svg" width="100%">
 </div>
