@@ -9,7 +9,7 @@
 🎓 Currently pursuing **B.Sc. in Computer Science**.  
 🌍 Based in **Bangladesh**.  
 💼 Actively exploring **Machine Learning**, **Web Development**, and **Data Science**.  
-⚡ Fun fact: I love solving real-world problems with tech and automating tedious tasks.  
+
 
 ---
 
