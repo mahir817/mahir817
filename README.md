@@ -1,11 +1,11 @@
 <!-- 🌊 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mahir%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb5cd,50:203a43,100:2c5364&height=200&section=header&text=Mahir%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 👋 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahir+Ahmed;Computer+Science+Engineer;Aspiring+Data+Scientist;Full+Stack+Developer;Tech+Enthusiast+from+Bangladesh+🇧🇩" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+Mahir+Here;Computer+Science+Engineer;Aspiring+Data+Scientist;Full+Stack+Developer;Tech+Enthusiast+from+Bangladesh+🇧🇩" />
 </h1>
 
 <p align="center">
