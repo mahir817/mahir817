@@ -15,11 +15,8 @@
 
 ## About me
 
-I'm a Computer Science graduate (B.Sc. in CSE, United International University, 2026) who likes building software that solves everyday problems, and explaining how it works to other people.
+I'm a Computer Science graduate (B.Sc. in CSE, United International University, 2026) who likes building software that solves everyday problems, and explaining how it works to other people. I build full stack apps with React and Spring Boot, and I do research in deep learning and NLP.
 
-- I've tutored and taught students aged 10 to 20 since 2022, one-on-one and in groups, online and in person.
-- I build full stack apps with React and Spring Boot, and I do research in deep learning and NLP.
-- I'm looking for a role as a coding instructor or CS educator, and I'm open to junior developer and ML roles too.
 
 ---
 
